@@ -1,2 +1,0 @@
-# AIDemo
-AI Helper Demo
